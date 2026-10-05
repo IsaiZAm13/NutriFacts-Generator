@@ -1,0 +1,1769 @@
+[
+    {
+        "nombre": "ANIMALITOS ORANGE FLAVORED GAMESA",
+        "codigo_barras": "052326",
+        "icono": "image.php?code=052326",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Arizona kiwi fresa",
+        "codigo_barras": "0613008738822",
+        "icono": "image.php?code=865986",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Arizona mango",
+        "codigo_barras": "0613008738808",
+        "icono": "image.php?code=297805",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Arizona ponche",
+        "codigo_barras": "613008772871",
+        "icono": "image.php?code=054656",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Arizona sandia",
+        "codigo_barras": "0613008738846",
+        "icono": "image.php?code=601658",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Arizona te verde",
+        "codigo_barras": "0613008738761",
+        "icono": "image.php?code=842456",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BIANCHI CHOCOLATE 350GR",
+        "codigo_barras": "782819",
+        "icono": "image.php?code=782819",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BIGOTES CAJETA 80G",
+        "codigo_barras": "7500810029206",
+        "icono": "image.php?code=881435",
+        "categoria": "Pan",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BIMBO HAMBURGER BUNS  480 GR",
+        "codigo_barras": "597248",
+        "icono": "image.php?code=597248",
+        "categoria": "Pan",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing durazno",
+        "codigo_barras": "038081",
+        "icono": "image.php?code=038081",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing Fresa",
+        "codigo_barras": "805486",
+        "icono": "image.php?code=805486",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing guayaba",
+        "codigo_barras": "606005",
+        "icono": "image.php?code=606005",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing mango",
+        "codigo_barras": "289895",
+        "icono": "image.php?code=289895",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing Mango 12oz",
+        "codigo_barras": "521425",
+        "icono": "image.php?code=521425",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing Mango Botellin",
+        "codigo_barras": "512930",
+        "icono": "image.php?code=512930",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing Mango tetra",
+        "codigo_barras": "903509",
+        "icono": "image.php?code=903509",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing naranja",
+        "codigo_barras": "748079",
+        "icono": "image.php?code=748079",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing piña",
+        "codigo_barras": "483154",
+        "icono": "image.php?code=483154",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Boing uva",
+        "codigo_barras": "695364",
+        "icono": "image.php?code=695364",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BON O BON PEANUT BUTTER",
+        "codigo_barras": "7500443004052",
+        "icono": "image.php?code=251479",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Botanera 1l",
+        "codigo_barras": "639765",
+        "icono": "image.php?code=639765",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Botanera 3.75",
+        "codigo_barras": "110641",
+        "icono": "image.php?code=110641",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BRAN FRUT CHEESECAKE58 GR",
+        "codigo_barras": "568595",
+        "icono": "image.php?code=568595",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BRAN FRUT PINEAPPLE SNACK BAR 200 GR",
+        "codigo_barras": "750303467347",
+        "icono": "image.php?code=390684",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "BRAN FRUT STRAWBERRY SNACK BAR 200 GR",
+        "codigo_barras": "750303467346",
+        "icono": "image.php?code=107163",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Clamato 1.89l",
+        "codigo_barras": "614246",
+        "icono": "image.php?code=614246",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Clamato 1l",
+        "codigo_barras": "186644",
+        "icono": "image.php?code=186644",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Clamato vidrio",
+        "codigo_barras": "265201",
+        "icono": "image.php?code=265201",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-cola 1.25",
+        "codigo_barras": "539367",
+        "icono": "image.php?code=539367",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-Cola 2.5",
+        "codigo_barras": "058306",
+        "icono": "image.php?code=058306",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-cola 3lt",
+        "codigo_barras": "795581",
+        "icono": "image.php?code=795581",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-Cola 500",
+        "codigo_barras": "7501055354672",
+        "icono": "image.php?code=975692",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-cola 500 ML",
+        "codigo_barras": "7501055300952",
+        "icono": "image.php?code=589947",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Coca-Cola 600ml",
+        "codigo_barras": "75007614",
+        "icono": "image.php?code=862752",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "COOKIES WITH CREAMY MILK",
+        "codigo_barras": "490255",
+        "icono": "image.php?code=490255",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "CREMAX WAFFER ASSORTED FLAVORED COOKIES 322 G",
+        "codigo_barras": "7501000655151",
+        "icono": "image.php?code=145868",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "CREMAX WAFFER CHOCOLATE FLAVORED COOKIES 322 G",
+        "codigo_barras": "7501000654727",
+        "icono": "image.php?code=795401",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "CREMAX WAFFER STRAWBERRY FLAVORED COOKIES 322 G",
+        "codigo_barras": "7501000654857",
+        "icono": "image.php?code=886073",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "CREMAX WAFFER VANILLA FLAVORED COOKIES 322 G",
+        "codigo_barras": "7501000654840",
+        "icono": "image.php?code=667221",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DAN MIX OREO 110G",
+        "codigo_barras": "7506443108707",
+        "icono": "image.php?code=909414",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANONE STRAWBERRY-APPLE 220G",
+        "codigo_barras": "106521",
+        "icono": "image.php?code=106521",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANONE STRAWBERRY-BLACKBERRY 220G",
+        "codigo_barras": "022212",
+        "icono": "image.php?code=022212",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANONINO 42 G",
+        "codigo_barras": "199194",
+        "icono": "image.php?code=199194",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANONINO STRAWBERRY  170 ml",
+        "codigo_barras": "081121",
+        "icono": "image.php?code=081121",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANY LIME FLAVORED GELATIN 125G",
+        "codigo_barras": "650097",
+        "icono": "image.php?code=650097",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DANY STRAWBERRY FLAVORED GELATIN 125G",
+        "codigo_barras": "781474",
+        "icono": "image.php?code=781474",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DE LA ROSA MAZAPAN",
+        "codigo_barras": "735258",
+        "icono": "image.php?code=735258",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "DIOSSA TOASTED BREAD 720GR",
+        "codigo_barras": "245615",
+        "icono": "image.php?code=245615",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Fanta 600",
+        "codigo_barras": "717975",
+        "icono": "image.php?code=717975",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "FLIPY 450G",
+        "codigo_barras": "456556",
+        "icono": "image.php?code=456556",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Fresca 600",
+        "codigo_barras": "7501055371211",
+        "icono": "image.php?code=937979",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "FRUITS FLAVORED CANDY CRAYON 560G",
+        "codigo_barras": "469028",
+        "icono": "image.php?code=469028",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Frutsi manzana",
+        "codigo_barras": "478373",
+        "icono": "image.php?code=478373",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Frutsi Ponche",
+        "codigo_barras": "931132",
+        "icono": "image.php?code=931132",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Frutsi uva",
+        "codigo_barras": "981151",
+        "icono": "image.php?code=981151",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "G- FRUIT PUNCH 600ML",
+        "codigo_barras": "03673132600",
+        "icono": "image.php?code=560464",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "G- LIME-LEMON 600ML",
+        "codigo_barras": "03573132300",
+        "icono": "image.php?code=463705",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "G- ORANGE 600ML",
+        "codigo_barras": "03673132103",
+        "icono": "image.php?code=702562",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "G-BLUEBERRY FLAVOR 600G",
+        "codigo_barras": "955698",
+        "icono": "image.php?code=955698",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "G-BLUEBERRY FLAVOR 600ML",
+        "codigo_barras": "7501022009857",
+        "icono": "image.php?code=110702",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA COCONUT BARS COOKIES 280 G",
+        "codigo_barras": "418053",
+        "icono": "image.php?code=418053",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA FRUTS 130G",
+        "codigo_barras": "876563",
+        "icono": "image.php?code=876563",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Gansito",
+        "codigo_barras": "7501000153107",
+        "icono": "image.php?code=571770",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GUACAMAYA SAUCE 33.81 fl oz",
+        "codigo_barras": "222729",
+        "icono": "image.php?code=222729",
+        "categoria": "Salsas y aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "HALLS BOOST",
+        "codigo_barras": "7622210993038",
+        "icono": "image.php?code=312444",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "HONEYBEE 1.73 KG",
+        "codigo_barras": "495080",
+        "icono": "image.php?code=495080",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "JAPANESE STYLE PEANUTS",
+        "codigo_barras": "110657",
+        "icono": "image.php?code=110657",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "JAZ TEA 500 ML ORIGINAL HORIZONTAL",
+        "codigo_barras": "304740",
+        "icono": "image.php?code=304740",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya durazno 2.5",
+        "codigo_barras": "196087",
+        "icono": "image.php?code=196087",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya durazno 600",
+        "codigo_barras": "362253",
+        "icono": "image.php?code=362253",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya fresa 2.5",
+        "codigo_barras": "092750",
+        "icono": "image.php?code=092750",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya fresa 600",
+        "codigo_barras": "258695",
+        "icono": "image.php?code=258695",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya manzana 2.5",
+        "codigo_barras": "7501055314218",
+        "icono": "image.php?code=472664",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya Manzana 600",
+        "codigo_barras": "7501055314133",
+        "icono": "image.php?code=361974",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya Piña 2.5",
+        "codigo_barras": "604669",
+        "icono": "image.php?code=604669",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya piña 600",
+        "codigo_barras": "825546",
+        "icono": "image.php?code=825546",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya Ponche 2.5",
+        "codigo_barras": "543536",
+        "icono": "image.php?code=543536",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya ponche 600",
+        "codigo_barras": "7501055377473",
+        "icono": "image.php?code=513383",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya uva 2.5",
+        "codigo_barras": "160851",
+        "icono": "image.php?code=160851",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Joya Uva 600",
+        "codigo_barras": "494146",
+        "icono": "image.php?code=494146",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex durazno 1l",
+        "codigo_barras": "103032",
+        "icono": "image.php?code=103032",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex mango 1l",
+        "codigo_barras": "311114",
+        "icono": "image.php?code=311114",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex manzana 1l",
+        "codigo_barras": "621909",
+        "icono": "image.php?code=621909",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex piña 1l",
+        "codigo_barras": "219887",
+        "icono": "image.php?code=219887",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex uva 1l",
+        "codigo_barras": "239549",
+        "icono": "image.php?code=239549",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex vidrio durazno",
+        "codigo_barras": "832541",
+        "icono": "image.php?code=832541",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex vidrio mango",
+        "codigo_barras": "579472",
+        "icono": "image.php?code=579472",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex vidrio manzana",
+        "codigo_barras": "188562",
+        "icono": "image.php?code=188562",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex vidrio piña",
+        "codigo_barras": "075713",
+        "icono": "image.php?code=075713",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Jumex vidrio uva",
+        "codigo_barras": "598140",
+        "icono": "image.php?code=598140",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "KCHETONES CHEESE FLAVORED 2.5 KG",
+        "codigo_barras": "348147",
+        "icono": "image.php?code=348147",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "KCHETONES FUEGO 2.5KG",
+        "codigo_barras": "459410",
+        "icono": "image.php?code=459410",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "KCHETONES QUESO 1 KG",
+        "codigo_barras": "339246",
+        "icono": "image.php?code=339246",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Kermato 1.8",
+        "codigo_barras": "697079",
+        "icono": "image.php?code=697079",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Kermato 413",
+        "codigo_barras": "425059",
+        "icono": "image.php?code=425059",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Kermato 950",
+        "codigo_barras": "398059",
+        "icono": "image.php?code=398059",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Kinder sorpesa 160gr",
+        "codigo_barras": "934051",
+        "icono": "image.php?code=934051",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LALA CHOCO CEREAL 100G",
+        "codigo_barras": "088696",
+        "icono": "image.php?code=088696",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LALA GELATINE FLAN 600 G",
+        "codigo_barras": "430745",
+        "icono": "image.php?code=430745",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LALA GELATINE FLAN 800 G 4.29.2026",
+        "codigo_barras": "827119",
+        "icono": "image.php?code=827119",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LALA PACK 12-220G",
+        "codigo_barras": "716291",
+        "icono": "image.php?code=716291",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Lechera",
+        "codigo_barras": "7501058617873",
+        "icono": "image.php?code=222016",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LUCKY GUMMY BEARS 1000G",
+        "codigo_barras": "222637",
+        "icono": "image.php?code=222637",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LUCKY GUMMY HEARTS 1000G",
+        "codigo_barras": "808299",
+        "icono": "image.php?code=808299",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LUCKY GUMMY SHARKS 1000G",
+        "codigo_barras": "543379",
+        "icono": "image.php?code=543379",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LUCKY GUMMY SMILES 1000G",
+        "codigo_barras": "006116",
+        "icono": "image.php?code=006116",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "LUCKY GUMMY WORMS 1000G",
+        "codigo_barras": "260617",
+        "icono": "image.php?code=260617",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mayonesa  McCormick  3.4",
+        "codigo_barras": "7501003340160",
+        "icono": "image.php?code=801973",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mayonesa McCormick  190",
+        "codigo_barras": "7501003340126",
+        "icono": "image.php?code=622631",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mayonesa McCormick  2.8",
+        "codigo_barras": "236038",
+        "icono": "image.php?code=236038",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mayonesa McCormick  390",
+        "codigo_barras": "7501003340139",
+        "icono": "image.php?code=263299",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mayonesa McCormick  725",
+        "codigo_barras": "784647",
+        "icono": "image.php?code=784647",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mega chamoy 1lt",
+        "codigo_barras": "022938",
+        "icono": "image.php?code=022938",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mega chamoy galon",
+        "codigo_barras": "732257",
+        "icono": "image.php?code=732257",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "MINI GANSITO SNACK CAKE 192 G",
+        "codigo_barras": "750302944514",
+        "icono": "image.php?code=750290",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Nito",
+        "codigo_barras": "429792",
+        "icono": "image.php?code=429792",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "NUCITA CHOCOLATE FLAVOR",
+        "codigo_barras": "278317",
+        "icono": "image.php?code=278317",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Papingas 80g",
+        "codigo_barras": "242561",
+        "icono": "image.php?code=242561",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi 2.2",
+        "codigo_barras": "387418",
+        "icono": "image.php?code=387418",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi 2.5",
+        "codigo_barras": "466901",
+        "icono": "image.php?code=466901",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "pepsi-500",
+        "codigo_barras": "7501022013700",
+        "icono": "image.php?code=332514",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL FRESA 600 ml 4.28.2026",
+        "codigo_barras": "594357",
+        "icono": "image.php?code=594357",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL LIMONADA 600 ml 4.28.2026",
+        "codigo_barras": "513419",
+        "icono": "image.php?code=513419",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL NARANJADA 600 ml 4.28.2026",
+        "codigo_barras": "834424",
+        "icono": "image.php?code=834424",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL TWIST LIMON Y SAL 600 ml 4.28.2026",
+        "codigo_barras": "846372",
+        "icono": "image.php?code=846372",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL TWIST NARANJA Y SAL 600 ml 4.28.2026",
+        "codigo_barras": "003304",
+        "icono": "image.php?code=003304",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PEÑAFIEL TWIST PEPINO Y SAL 600 ml 4.28.2026",
+        "codigo_barras": "760728",
+        "icono": "image.php?code=760728",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "peñafiel agua de coco 600 ml V1. 4.29.2026",
+        "codigo_barras": "378098",
+        "icono": "image.php?code=378098",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PICA GOMA MANGO FLAVOR",
+        "codigo_barras": "490154",
+        "icono": "image.php?code=490154",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PICA GOMA WATERMELON",
+        "codigo_barras": "726319",
+        "icono": "image.php?code=726319",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PIN PON COCONUT ROLL 270G",
+        "codigo_barras": "842971",
+        "icono": "image.php?code=842971",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "POLLITOS CHOCOLATE",
+        "codigo_barras": "838614",
+        "icono": "image.php?code=838614",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "ROCKALETA CHILI LOLLIPOP WITH GUM CENTER 960 GR",
+        "codigo_barras": "817530",
+        "icono": "image.php?code=817530",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Sabritas Adobadas 42g",
+        "codigo_barras": "331361",
+        "icono": "image.php?code=331361",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Sabritas Adobadas 42g - 2026-09-07 17-12-39",
+        "codigo_barras": "553233",
+        "icono": "image.php?code=553233",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Sabritas Xtra Flamin Hot 42g",
+        "codigo_barras": "164105",
+        "icono": "image.php?code=164105",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Sponch 225g",
+        "codigo_barras": "771197",
+        "icono": "image.php?code=771197",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "SPONCH VANILLA FLAVORED COOKIES WITH MARSHMALLOW AND",
+        "codigo_barras": "807214",
+        "icono": "image.php?code=807214",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "sprite-500",
+        "codigo_barras": "7501055371204",
+        "icono": "image.php?code=822226",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "TRIKI TRAKES CHOCOLATECHIPS COOKIE 50 G",
+        "codigo_barras": "464449",
+        "icono": "image.php?code=464449",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Valentina 12 oz",
+        "codigo_barras": "779245",
+        "icono": "image.php?code=779245",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Valentina 1l",
+        "codigo_barras": "038342",
+        "icono": "image.php?code=038342",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Valentina galon",
+        "codigo_barras": "751673",
+        "icono": "image.php?code=751673",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Valentina negra 12oz",
+        "codigo_barras": "408099",
+        "icono": "image.php?code=408099",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Valentina negra 1l",
+        "codigo_barras": "269703",
+        "icono": "image.php?code=269703",
+        "categoria": "Salsas y Aderezos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VERO MIX BANDA FUEGO 940 GR",
+        "codigo_barras": "497494",
+        "icono": "image.php?code=497494",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VERO MIX DULCE CLUB 930 GR",
+        "codigo_barras": "261009",
+        "icono": "image.php?code=261009",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VIVE 100 BLUEBERRYFLAVOR 16.9 fl oz (400 mL)",
+        "codigo_barras": "332203",
+        "icono": "image.php?code=332203",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VIVE 100 CITRUS FLAVOR 16.9 fl oz (500 mL)",
+        "codigo_barras": "702040",
+        "icono": "image.php?code=702040",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VIVE 100 ORIGINAL GUARANA FLAVOR 13.5 fl oz (400 mL)",
+        "codigo_barras": "596749",
+        "icono": "image.php?code=596749",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VIVE 100 ULTRA GUARANA FLAVOR 16.9 floz (500 mL)",
+        "codigo_barras": "478210",
+        "icono": "image.php?code=478210",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VOLT YELLOW GUARANA FLAVOR 16 fl oz (473mL)",
+        "codigo_barras": "270579",
+        "icono": "image.php?code=270579",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto Flamming Comparte",
+        "codigo_barras": "001",
+        "icono": "image.php?code=001"
+    },
+    {
+        "nombre": "Sprite 500ML",
+        "codigo_barras": "7501055305612",
+        "icono": "image.php?code=7501055305629",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Betamex Banderilla 2kg",
+        "codigo_barras": "7501624799781",
+        "icono": "image.php?code=7501624799781",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Miguelito 950g",
+        "codigo_barras": "7503005897048",
+        "icono": "image.php?code=7503005897048",
+        "categoria": "Abarrotes",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Betamex Banderilla Echilada 1kg",
+        "codigo_barras": "7501624799538",
+        "icono": "image.php?code=7501624799538",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Halls Colores",
+        "codigo_barras": "7622210457523",
+        "icono": "image.php?code=7622210457523",
+        "categoria": "Dulces",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto Bola",
+        "codigo_barras": "473648",
+        "icono": "image.php?code=473648",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto Colmillo",
+        "codigo_barras": "685936",
+        "icono": "image.php?code=685936",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto Flamming Comparte",
+        "codigo_barras": "910672",
+        "icono": "image.php?code=910672"
+    },
+    {
+        "nombre": "Cheto mix Comparte",
+        "codigo_barras": "665965",
+        "icono": "image.php?code=665965"
+    },
+    {
+        "nombre": "Cheto poff Comparte",
+        "codigo_barras": "468285",
+        "icono": "image.php?code=468285",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto Torcidos Comparte",
+        "codigo_barras": "619644",
+        "icono": "image.php?code=619644",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Chips Fuego C",
+        "codigo_barras": "877995",
+        "icono": "image.php?code=877995",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Churrumais flaming",
+        "codigo_barras": "627130",
+        "icono": "image.php?code=627130",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Churrumais flaming Comparte",
+        "codigo_barras": "135082",
+        "icono": "image.php?code=135082",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Churrumais Limon Comparte",
+        "codigo_barras": "742769",
+        "icono": "image.php?code=742769",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Crujito Comparte",
+        "codigo_barras": "139078",
+        "icono": "image.php?code=139078",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito dinamita Chile y Limon",
+        "codigo_barras": "7500478018512",
+        "icono": "image.php?code=637057",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito Flaming hot Comparte",
+        "codigo_barras": "293461",
+        "icono": "image.php?code=293461",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito Flaming hot Comparte",
+        "codigo_barras": "914477",
+        "icono": "image.php?code=914477",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito Incognita Comparte",
+        "codigo_barras": "231246",
+        "icono": "image.php?code=231246",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito mix Comparte",
+        "codigo_barras": "788464",
+        "icono": "image.php?code=788464",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito nacho Comparte",
+        "codigo_barras": "7500478049844",
+        "icono": "image.php?code=7500478049844",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito Pizzarola Comparte",
+        "codigo_barras": "340783",
+        "icono": "image.php?code=340783",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Frito Chile Comparte",
+        "codigo_barras": "958195",
+        "icono": "image.php?code=958195",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Frito Chorizo Comparte",
+        "codigo_barras": "645573",
+        "icono": "image.php?code=645573",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PAQUETAXO BOTANERO COMPARTE",
+        "codigo_barras": "056580",
+        "icono": "image.php?code=056580",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PAQUETAXO DARK",
+        "codigo_barras": "108571",
+        "icono": "image.php?code=108571",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PAQUETAXO FLAMING HOT",
+        "codigo_barras": "540498",
+        "icono": "image.php?code=540498",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "PAQUETAXO MEZCLADO Comparte",
+        "codigo_barras": "188362",
+        "icono": "image.php?code=188362"
+    },
+    {
+        "nombre": "PAQUETAXO QUESO Comparte",
+        "codigo_barras": "866705",
+        "icono": "image.php?code=866705"
+    },
+    {
+        "nombre": "RANCHERITO Comparte",
+        "codigo_barras": "105101",
+        "icono": "image.php?code=105101",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RECETA CRUJIENTE FLAMING Comparte",
+        "codigo_barras": "043487",
+        "icono": "image.php?code=043487",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RECETA CRUJIENTE JALAPEÑO Comparte",
+        "codigo_barras": "371215",
+        "icono": "image.php?code=371215",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RUFFLE MEGA CRUNCH JALAPENO Comparte",
+        "codigo_barras": "663106",
+        "icono": "image.php?code=663106",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RUFFLE MEGA CRUNCH SALSA ROJA Comparte",
+        "codigo_barras": "406754",
+        "icono": "image.php?code=406754",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RUFFLE MIX COMPARTE",
+        "codigo_barras": "997830",
+        "icono": "image.php?code=997830",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RUFFLE QUESO",
+        "codigo_barras": "011140",
+        "icono": "image.php?code=011140",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "RUNNERS",
+        "codigo_barras": "841114",
+        "icono": "image.php?code=841114",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "SABRITA ADOBADA",
+        "codigo_barras": "666732",
+        "icono": "image.php?code=666732",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "SABRITA ORIGINAL",
+        "codigo_barras": "184598",
+        "icono": "image.php?code=184598",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "SABRITON",
+        "codigo_barras": "203479",
+        "icono": "image.php?code=203479",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "TOSTITO FLAMING",
+        "codigo_barras": "988463",
+        "icono": "image.php?code=988463",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "TOSTITO VERDE",
+        "codigo_barras": "799916",
+        "icono": "image.php?code=799916",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "7UP sabor lima 600ml",
+        "codigo_barras": "180258",
+        "icono": "image.php?code=180258",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Mirinda",
+        "codigo_barras": "7501022016015",
+        "icono": "image.php?code=132939",
+        "categoria": "",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi regular 2.5 l",
+        "codigo_barras": "156543",
+        "icono": "image.php?code=156543",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi regular 2 l",
+        "codigo_barras": "63384",
+        "icono": "image.php?code=63384",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi regular 1.5 l",
+        "codigo_barras": "349207",
+        "icono": "image.php?code=349207",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Pepsi regular 3 l",
+        "codigo_barras": "298753",
+        "icono": "image.php?code=298753",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Agua ciel",
+        "codigo_barras": "7501055310883",
+        "icono": "image.php?code=7501055310883",
+        "categoria": "Bebidas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GALLETA GAMESA CHOKO CHOKIS 84 G",
+        "codigo_barras": "750100065779",
+        "icono": "image.php?code=750100065779",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA CHOCOLATINES",
+        "codigo_barras": "750100066273",
+        "icono": "image.php?code=750100066273",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA DELICIAS",
+        "codigo_barras": "7500478024926",
+        "icono": "image.php?code=7500478024926"
+    },
+    {
+        "nombre": "GAMESA EMPERADOR NUEZ",
+        "codigo_barras": "00750047803927",
+        "icono": "image.php?code=00750047803927",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA EMPERADOR NUEZ",
+        "codigo_barras": "00750047803929",
+        "icono": "image.php?code=00750047803929",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA SALADITAS 504g",
+        "codigo_barras": "00750047801819",
+        "icono": "image.php?code=00750047801819",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA SALADITAS 137/186g",
+        "codigo_barras": "00750100066422",
+        "icono": "image.php?code=00750100066422",
+        "categoria": "Galletas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "GAMESA SALADITAS 200g",
+        "codigo_barras": "00750047801821",
+        "icono": "image.php?code=00750047801821"
+    },
+    {
+        "nombre": "JUGO MAGGI SAZONADOR 100ml",
+        "codigo_barras": "99915615",
+        "icono": "image.php?code=99915615"
+    },
+    {
+        "nombre": "JUGO MAGGI SAZONADOR 800ml",
+        "codigo_barras": "99915616",
+        "icono": "image.php?code=99915616"
+    },
+    {
+        "nombre": "VAQUITA ALPURA FRESA",
+        "codigo_barras": "7501055915682",
+        "icono": "image.php?code=7501055915682",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VAQUITA ALPURA CHOCOLATE",
+        "codigo_barras": "7501055915668",
+        "icono": "image.php?code=7501055915668",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "VAQUITA ALPURA VAINILLA",
+        "codigo_barras": "7501055915705",
+        "icono": "image.php?code=7501055915705",
+        "categoria": "Lacteos",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Cheto bola comparte",
+        "codigo_barras": "999984848455",
+        "icono": "image.php?code=999984848455"
+    },
+    {
+        "nombre": "Cheto poff 40g",
+        "codigo_barras": "044115",
+        "icono": "image.php?code=044115"
+    },
+    {
+        "nombre": "Tostitos Flaming Hot 62g",
+        "codigo_barras": "126879",
+        "icono": "image.php?code=126879",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Churrumais Flaming Hot 70g",
+        "codigo_barras": "042319",
+        "icono": "image.php?code=042319",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Churrumais 70g",
+        "codigo_barras": "016587",
+        "icono": "image.php?code=016587",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Dorito Nacho 58g",
+        "codigo_barras": "123588",
+        "icono": "image.php?code=123588",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Tostitos sala verde 62g",
+        "codigo_barras": "127012",
+        "icono": "image.php?code=127012",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Rancherito 58g",
+        "codigo_barras": "111028",
+        "icono": "image.php?code=111028",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    },
+    {
+        "nombre": "Crujitos 45g",
+        "codigo_barras": "142299",
+        "icono": "image.php?code=142299",
+        "categoria": "Sabritas",
+        "piezas": 0,
+        "cajas_por_tarima": 0
+    }
+]
